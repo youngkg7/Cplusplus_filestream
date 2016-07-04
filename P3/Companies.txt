@@ -1,0 +1,7 @@
+Apple                AAPL           450.00
+Boeing               BA             75.50
+Intel                INTC           22.30
+Rambus               RMBS           5.55
+Sirius               SIRI           3.15
+Skyworks             SWKS           25.35
+Xilinx               XLNX           36.80
